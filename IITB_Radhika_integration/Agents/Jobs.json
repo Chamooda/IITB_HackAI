@@ -1,0 +1,29 @@
+{
+  "jobs": {
+    "Software_Engineer": {
+      "total_experience_required": "3-5 years",
+      "primary_skills_required": ["Python", "Django", "JavaScript", "React"],
+      "degree_required": "Bachelor's in Computer Science"
+    },
+    "Data_Scientist": {
+      "total_experience_required": "4-6 years",
+      "primary_skills_required": ["Python", "R", "Machine Learning", "SQL"],
+      "degree_required": "Master's in Data Science"
+    },
+    "Network_Administrator": {
+      "total_experience_required": "2-4 years",
+      "primary_skills_required": ["Cisco", "TCP/IP", "Firewall Configuration"],
+      "degree_required": "Bachelor's in Information Technology"
+    },
+    "UX_UI_Designer": {
+      "total_experience_required": "3-5 years",
+      "primary_skills_required": ["Adobe XD", "Sketch", "HTML", "CSS"],
+      "degree_required": "Bachelor's in Design or related field"
+    },
+    "DevOps_Engineer": {
+      "total_experience_required": "5-7 years",
+      "primary_skills_required": ["Docker", "Kubernetes", "Jenkins", "AWS"],
+      "degree_required": "Bachelor's in Computer Engineering"
+    }
+  }
+}

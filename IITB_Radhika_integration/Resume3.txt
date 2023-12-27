@@ -1,0 +1,61 @@
+Elena Rodriguez
+789 Dev Drive
+Techville, FL 67890
+elena.rodriguez@email.com
+(555) 555-5555
+
+Objective:
+---------------
+Passionate software engineer with expertise in Ruby, Rails, and Vue.js. Seeking a dynamic role to contribute my skills to challenging projects and further enhance my technical abilities.
+
+Education:
+---------------
+Bachelor of Computer Engineering
+TechMaster University, Miami, FL
+May 2023
+
+Experience:
+---------------
+Full Stack Developer
+CodeCrafters Inc., Orlando, FL
+July 2023 - Present
+
+- Developed and maintained web applications using Ruby on Rails and Vue.js.
+- Collaborated with UI/UX designers to create visually appealing and user-friendly interfaces.
+
+Intern, Software Development
+InnoTech Solutions, Tampa, FL
+May 2022 - August 2022
+
+- Assisted in the design and implementation of RESTful APIs using Node.js.
+- Conducted code reviews and provided feedback for team members.
+
+Skills:
+---------------
+- Programming Languages: Ruby, JavaScript, Python
+- Frameworks and Technologies: Ruby on Rails, Vue.js, Node.js
+- Other Relevant Skills: Git, SQL, RESTful APIs
+
+Projects:
+---------------
+Event Management System
+- Developed an event management system using Ruby on Rails.
+- Implemented user registration, event creation, and ticketing features.
+
+Task Tracker App
+- Contributed to the development of a task tracker application using Vue.js and Node.js.
+- Integrated with backend APIs for data retrieval and updates.
+
+Certifications:
+---------------
+Certified Ruby on Rails Developer
+Ruby Association Certification
+June 2022
+
+Certified Vue.js Developer
+Vue.js Certification Institute
+August 2021
+
+References:
+---------------
+Available upon request.
